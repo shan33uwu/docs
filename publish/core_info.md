@@ -1,4 +1,4 @@
-# 分流 Core
+# 分流
 
 > [!WARNING]
 > 這個文件資料請以 [Discord](https://discord.gg/DDJvnb7U4G) 更新為主

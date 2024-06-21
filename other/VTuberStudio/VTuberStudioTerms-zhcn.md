@@ -1,6 +1,6 @@
 # 虚拟主播工作室（VTuber Studio）的合同条款
 
-> [!WARNING]
+> [!CAUTION]
 > 本协议非 RoboTech 所属
 
 应详细、明确，涵盖各个方面的权益、义务和责任。以下是一些常见的合同条款（Terms）及其内容：
